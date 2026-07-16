@@ -1,0 +1,2 @@
+# Tech
+Strona tech
